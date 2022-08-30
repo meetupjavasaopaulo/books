@@ -26,9 +26,11 @@ Título | Author | Tem versão PT-BR
 
 ## Conduta
 
-* O programador apaixonado
-* O Programador Pragmático
-* O Codificador Limpo
+Título | Author | Tem versão PT-BR
+-------|--------|:---------------:
+[The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.amazon.com.br/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)|Chad Fowler|:white_check_mark:
+[The Pragmatic Programmer: Your Journey to Mastery](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)|David Thomas, Andrew Hunt| 
+[Clean Coder, The: A Code of Conduct for Professional Programmers](https://www.amazon.com.br/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y)|[Robert C. Martin(Uncle Bob)](http://cleancoder.com/products)|:white_check_mark:
 
 ## Testes
 
