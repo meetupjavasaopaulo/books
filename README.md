@@ -12,13 +12,13 @@
 
 Título | Author | Tem versão PT-BR
 -------|--------|:---------------:
-[Refactoring: Improving the Design of Existing Code](tinyurl.com/2ef8vqgw)|[Martin Fowler](https://martinfowler.com/)|:white_check_mark:
-[Clean Code: A Handbook of Agile Software Craftsmanship](tinyurl.com/2fuj5ykk)|[Robert C. Martin(Uncle Bob)](http://cleancoder.com/products)|:white_check_mark:
-[Head First Object-Oriented Analysis and Design](tinyurl.com/2mwxfn2g)|Brett Mclaughlin, David West|:white_check_mark:
-[Refactoring to Patterns](tinyurl.com/2zn3w94l)|[Joshua Kerievsky](https://medium.com/@JoshuaKerievsky)|:white_check_mark:
+[Refactoring: Improving the Design of Existing Code](https://www.amazon.com.br/Refactoring-Improving-Design-Existing-Code/dp/0134757599)|[Martin Fowler](https://martinfowler.com/)|:white_check_mark:
+[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)|[Robert C. Martin(Uncle Bob)](http://cleancoder.com/products)|:white_check_mark:
+[Head First Object-Oriented Analysis and Design](https://www.amazon.com.br/First-Object-Oriented-Analysis-Design-English-ebook/dp/B006JTIZT4)|Brett Mclaughlin, David West|:white_check_mark:
+[Refactoring to Patterns](https://www.amazon.com.br/Refactoring-Patterns-Addison-Wesley-Signature-English-ebook/dp/B001TKD4RQ)|[Joshua Kerievsky](https://medium.com/@JoshuaKerievsky)|:white_check_mark:
 [Implementation Patterns](tinyurl.com/2zc543kg)|[Kent Beck](https://www.kentbeck.com/)|:white_check_mark:
-[Trabalho Eficaz com Código Legado](tinyurl.com/2o7s4doa)|Michael C. Feathers| 
-[Head first desgin patterns](tinyurl.com/2jvjdwxs)|Eric Freeman, Elisabeth Robson|
+[Trabalho Eficaz com Código Legado](https://www.amazon.com.br/Trabalho-Eficaz-com-C%C3%B3digo-Legado/dp/8582600321)|Michael C. Feathers| 
+[Head first desgin patterns](https://www.amazon.com.br/Head-First-Design-Patterns-Object-Oriented-ebook/dp/B08P3X99QP)|Eric Freeman, Elisabeth Robson|
 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)|[Eric Evans](https://twitter.com/ericevans0)|:white_check_mark:
 [Implementing Domain-Driven Design](https://www.amazon.com.br/Implementing-Domain-Driven-Design-English-Vaughn-ebook/dp/B00BCLEBN8)|[Vernon Vaughn](https://twitter.com/vaughnvernon)|:white_check_mark:https://github.com/fabianogoes/books.git
 [Patterns of enterprise application architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)|[Martin Fowler](https://martinfowler.com/)|
