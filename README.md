@@ -62,6 +62,6 @@ Título | Author
 Título | Author 
 -------|--------
 [Functional Programming for Java Developers](https://www.amazon.com.br/Functional-Programming-Java-Developers-Wampler/dp/1449311032)|Wampler Dean
-[Functional Programming With Java | Pluralsight (video](https://www.pluralsight.com/courses/java-functional-programming)|Jessica Kerr
+[Functional Programming With Java (video)](https://www.pluralsight.com/courses/java-functional-programming)|Jessica Kerr
 [Functional Thinking - O'Reilly Media (video)](https://www.oreilly.com/library/view/functional-thinking/9781449365509/)|Neal Ford
 
